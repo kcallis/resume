@@ -27,7 +27,7 @@ Education
 1990-1991 :   **Stanford University**; M.BA
 
 1984-1987 :   **University of San Francisco**; B.Sc., Business
-                  *Minor: History*
+
 
 
 Certification
