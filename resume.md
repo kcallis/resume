@@ -90,16 +90,21 @@ Skills
 
 Experience
 ---------
-2012-2014 :   **Waterville Oaks, LLC** - Waterville, ME
+2012-2014
+:   **Waterville Oaks, LLC** - Waterville, ME
+
 	*  Installation of Watchguard Firewall
 
-2011-2011 :   **BeachBody, Inc.** - Santa Monica, CA
+2011-2011
+:   **BeachBody, Inc.** - Santa Monica, CA
+
 	*  Installed and maintained an Asterisk Server that provided
 	  service to 400 workers and another 100 workers at a Call Center.
 	*  Part of the process for migration from Asterisk to Cisco
 	  Unified Communications.
 
-2006-2015 :   **Callis & Associates** - Los Angeles, CA
+2006-2015
+:   **Callis & Associates** - Los Angeles, CA
 
 	*  Design of Multi-site LAN utilizing OpenSolaris 10 and
 	  FreeBSD for servers needs and Linux for desktop needs
@@ -115,7 +120,8 @@ Experience
 	*  Used FreeNAS (FreeBSD based) appliance to provide 30TB Fileserver.
 	*  Designed WiFi based network to provide connectivity to fringe areas.
 
-1999-2003 :   **Callis, Chung \&  Associates** - Los Angeles, CA
+1999-2003
+:   **Callis, Chung \&  Associates** - Los Angeles, CA
 
 	*  Provided systems architecture and deployment of Solaris
 	   based x86 systems.
@@ -128,14 +134,16 @@ Experience
        to access services externally.
     *  Use of decommissioned machines to augment network needs.
 
-2000-2000 :   **Fujitsu Computer Products of America** - San Jose, CA
+2000-2000
+:   **Fujitsu Computer Products of America** - San Jose, CA
 
     -  Evaluation of enterprise level backup software Netback and Veritas.
     -  Configuring EMC Celerra Network Attached Storage (NAS)  for NFS, CIFS.
     -  Designed a Symmetrix-based SAN for distribution in 5 \
        remote locations.
 
-2000-2000 :   **Akamai Technologies** - San Mateo, CA
+2000-2000
+:   **Akamai Technologies** - San Mateo, CA
 
 	*  Configuration of Cisco Catalyst switches
 	*  Configuration of Cisco core and edge routers.
@@ -149,7 +157,8 @@ Experience
 	*  Re-designed enterprise-wide backup scheme to meet scalability issues\
 	   using VERITAS Netbackup.
 
-2000-2000 :    **HAL Computer Systems** - Campbell, CA
+2000-2000
+:    **HAL Computer Systems** - Campbell, CA
 
 	* Responsible for the complete move of all IT resources from \
 	  one location to the new site.
@@ -162,8 +171,8 @@ Experience
 	* Reported to the President/CEO and VP of engineering.
 
 
-2000-2000 :   **B-Lan** - Los Angeles, CA
-
+2000-2000
+:   **B-Lan** - Los Angeles, CA
 
 	* Upgraded Aix servers from 5.3 TL 9 to 5.3 TL12 and also
 	  upgraded from Aix 6.1 TL 6 Sp2 to Aic 6.1 TL6
@@ -174,7 +183,8 @@ Experience
 	partitions through NIM and Managing partitions through HMC Console
 
 
-1999-1999 :   **StorageTek ,Inc.** - Irvine, CA
+1999-1999
+:   **StorageTek ,Inc.** - Irvine, CA
 
 
 	* Documented network configuration.
@@ -187,7 +197,8 @@ Experience
 	* Maintained internal DNS server.
 
 
-1999-1999 :   **Computer Sciences Corp.** - El Segundo, CA
+1999-1999
+:   **Computer Sciences Corp.** - El Segundo, CA
 
 
 	* Technical Lead of CSC Tiger Team.
@@ -197,7 +208,8 @@ Experience
 	Remedy deployment.
 
 
-1998-1998 :   **DST International** - Boston, MA
+1998-1998
+:   **DST International** - Boston, MA
 
 
 	* Moved client from UUCP based MTA to SMTP based MTA using
@@ -207,7 +219,8 @@ Experience
 	Solaris 2.5.1 to 2.6.
 
 
-1998-1998 :   **The MITRE Corporation** - New Bedford, MA
+1998-1998
+:   **The MITRE Corporation** - New Bedford, MA
 
 	* Replaced POP services to IMAP.
 	* Implemented  web based network  monitoring  system
@@ -216,7 +229,8 @@ Experience
 	proof of concept for client. Based around Project Beowulf.
 
 
-1998-1998 :   **Electric Boats, Inc** - Groton, CT
+1998-1998
+:   **Electric Boats, Inc** - Groton, CT
 
 
 	* Provided general user support.
@@ -229,7 +243,8 @@ Experience
 	plan.
 
 
-1997-1998 :   **Cogent Software, Inc.** - Pasadena, CA
+1997-1998
+:   **Cogent Software, Inc.** - Pasadena, CA
 
 
 	* Supported an ISP service.
@@ -239,7 +254,8 @@ Experience
 	* Developed web based project management system.
 
 
-1997-1997 :   **Xerox** - El Segundo, CA
+1997-1997
+:   **Xerox** - El Segundo, CA
 
 
 	* Installation and configuration of Network Applicance NFS
@@ -247,7 +263,8 @@ Experience
 	* General Systems Administrator tasks
 
 
-1997-1997 :   **UCLA Medical Center** - Los Angeles, CA
+1997-1997
+:   **UCLA Medical Center** - Los Angeles, CA
 
 
 	* Managed the day to day operations of 40 Sun Servers E2000
@@ -261,7 +278,8 @@ Experience
 	consisted of 150 servers.
 
 
-1997-1997 :   **ARCO** - Carson, CA
+1997-1997
+:   **ARCO** - Carson, CA
 
 
 	* Migrated mail from IBM mainframe based PROFS Notes to Unix
@@ -269,7 +287,8 @@ Experience
 	* Implemented Sendmail/Lotus Notes gateway.
 
 
-1996-1996 :   **General Instuments** - San Diego, CA
+1996-1996
+:   **General Instuments** - San Diego, CA
 
 
 	* Developed a test network environment to simulate usage
@@ -279,7 +298,8 @@ Experience
 	* Provided day to day support for UNIX  based hosts throughout the site.
 
 
-1996-1996 :   **Electronic Data Systems** - El Segundo, CA
+1996-1996
+:   **Electronic Data Systems** - El Segundo, CA
 
 	* Managed approximately 45 UNIX  System Administrators at
 	Hughes Aircraft Co. - Space and Communications Facility.
@@ -302,7 +322,8 @@ Experience
 	account.
 
 
-1995-1996 :   **Twinsun, Inc** - El Segundo, CA
+1995-1996
+:   **Twinsun, Inc** - El Segundo, CA
 
 	* Day to day management of approximately 20 Solaris based
 	SPARCs and UltraSPARC.
@@ -313,7 +334,8 @@ Experience
 	* Implemented TIS proxy firewall for company network.
 
 
-1994-1996 :   **Callis \&  Associates** - San Francisco, CA
+1994-1996
+:   **Callis \&  Associates** - San Francisco, CA
 
 	* Managed ten consultants who provided services for the East Bay Area.
 	* Over-saw the daily operations of the consulting group in a
@@ -323,13 +345,15 @@ Experience
 	District.
 
 
-1992-1994 :   **Ventura County Office of Education** - Ventura,CA
+1992-1994
+:   **Ventura County Office of Education** - Ventura, CA
 
 	* Installation of a linux based systems to replace failing systems.
 	* Provided training for all staff members as well as some students.
 
 
-1989-1992 :   **Sun Microsystems, Inc** - Mt. View, CA
+1989-1992
+:   **Sun Microsystems, Inc** - Mt. View, CA
 
 	* Telephone support for Sun/OS 4.0 specific problems.
 
