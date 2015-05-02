@@ -8,15 +8,15 @@ Little Rock, AR 72204           +1 (323) 244-4280 [http://kcallis.hashbang.sh](h
 
 ----
 
->   I architect and implement solutions to difficult and ill defined
->   problems.  > I bring multiple skills sets: Systems Administration
->   and Automation, IT Enterprise Services, System and Network
->   Administration, Security, Project Management and a proven ability
->   to bring projects to a successful conclusion. I assimilate new
->   information and technology quickly and put it into productive use
->   to solve business needs. Also, in solving the hurt points, I am
->   able to use both commerical and open-source to meet the needs of
->   the project.
+>  I architect and implement solutions to difficult and ill defined
+>  problems. I bring multiple skills sets: Systems Administration
+>  and Automation, IT Enterprise Services, System and Network
+>  Administration, Security, Project Management and a proven ability
+>  to bring projects to a successful conclusion. I assimilate new
+>  information and technology quickly and put it into productive use
+>  to solve business needs. Also, in solving the hurt points, I am
+>  able to use both commerical and open-source to meet the needs of
+>  the project.
 
 ----
 
@@ -91,42 +91,42 @@ Skills
 Experience
 ---------
 2012-2014 :   **Waterville Oaks, LLC** - Waterville, ME
-	- Installation of Watchguard Firewall
+	*  Installation of Watchguard Firewall
 
 2011-2011 :   **BeachBody, Inc.** - Santa Monica, CA
-	- Installed and maintained an Asterisk Server that provided
-	- service to 400 workers and another 100 workers at a Call Center.
-	- Part of the process for migration from Asterisk to Cisco
-	- Unified Communications.
+	*  Installed and maintained an Asterisk Server that provided
+	  service to 400 workers and another 100 workers at a Call Center.
+	*  Part of the process for migration from Asterisk to Cisco
+	  Unified Communications.
 
 2006-2015 :   **Callis & Associates** - Los Angeles, CA
 
-	-  Design of Multi-site LAN utilizing OpenSolaris 10 and
-	-  FreeBSD for servers needs and Linux for desktop needs
-	-  Installed, configured and upgraded DNS, DDNS and DHCP to
+	*  Design of Multi-site LAN utilizing OpenSolaris 10 and
+	  FreeBSD for servers needs and Linux for desktop needs
+	*  Installed, configured and upgraded DNS, DDNS and DHCP to
 	   support a 45 domain enterprise
-	-  Used FreeBSD appliance software to provide
+	*  Used FreeBSD appliance software to provide
 	   multi-interfaced firewall services using pfSense
-	-  Implemented Jumpstart and Kickstart procedures to
+	*  Implemented Jumpstart and Kickstart procedures to
 	   automate machine deployment. In addition to the above tools, used
 	   cfengine for fine turning.
-	-  Installed OpenSolaris based servers to support linux thin
+	*  Installed OpenSolaris based servers to support linux thin
 	   client solution.
-	-  Used FreeNAS (FreeBSD based) appliance to provide 30TB Fileserver.
-	-  Designed WiFi based network to provide connectivity to fringe areas.
+	*  Used FreeNAS (FreeBSD based) appliance to provide 30TB Fileserver.
+	*  Designed WiFi based network to provide connectivity to fringe areas.
 
 1999-2003 :   **Callis, Chung \&  Associates** - Los Angeles, CA
 
-	-  Provided systems architecture and deployment of Solaris
+	*  Provided systems architecture and deployment of Solaris
 	   based x86 systems.
-    -  Developed strategic goals and objectives for \
+    *  Developed strategic goals and objectives for \
 	   LAUSD in conjunction with Information Technology Services (ITS) \
 	   and provided Project Management for district-wide thin client solution.
-    -  Wrote documentation for systems use for administrator, faculty \
+    *  Wrote documentation for systems use for administrator, faculty \
        and students.
-    -  VPN implementation using OpenVPN to allow teachers \&  administrators \
+    *  VPN implementation using OpenVPN to allow teachers \&  administrators \
        to access services externally.
-    -  Use of decommissioned machines to augment network needs.
+    *  Use of decommissioned machines to augment network needs.
 
 2000-2000 :   **Fujitsu Computer Products of America** - San Jose, CA
 
@@ -137,24 +137,17 @@ Experience
 
 2000-2000 :   **Akamai Technologies** - San Mateo, CA
 
-	-  Configuration of Cisco Catalyst switches
-	-  Configuration of Cisco core and edge routers.
-	-  Design and implementation of PERL based software \
+	*  Configuration of Cisco Catalyst switches
+	*  Configuration of Cisco core and edge routers.
+	* Design and implementation of PERL based software \
 	   installation update script for Linux based servers. Using CFengine \
        and rsync.
-    -  Designed, implemented and managed a testing lab,consisting \
+    *  Designed, implemented and managed a testing lab,consisting \
        of over 100 rack mounted linux based servers.
-	-  Installed, configured, and managed 25-node clusters using \
+	*  Installed, configured, and managed 25-node clusters using \
 	   VERITAS Cluster Server
-	-  Re-designed enterprise-wide backup scheme to meet scalability issues\
+	*  Re-designed enterprise-wide backup scheme to meet scalability issues\
 	   using VERITAS Netbackup.
-\
-\
-\
-\
-\
-\
-\
 
 2000-2000 :    **HAL Computer Systems** - Campbell, CA
 
@@ -162,7 +155,7 @@ Experience
 	  one location to the new site.
 	* Supervised a staff of 28 IT specialist including FTE and \
 	  contractors.
-	* Responsible for interfacing with vendors and internal \
+	* Responsible for interfacing with vendors and internal
 	  departments for various segments of the transition.
 	* Provided technical direction for all IT members.
 	* Designed and implemented a web based project tracking system.
