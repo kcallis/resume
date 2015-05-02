@@ -171,7 +171,7 @@ Experience
 
 2000-2000 :   **B-Lan** - Los Angeles, CA
 
-```
+
 	* Upgraded Aix servers from 5.3 TL 9 to 5.3 TL12 and also
 	  upgraded from Aix 6.1 TL 6 Sp2 to Aic 6.1 TL6
 	* Installing, configuring, maintaining, implementation, and
@@ -179,173 +179,167 @@ Experience
 	  TSM, Oracle RAC, and ASM
 	* Hand on experience in LPAR/DLPAR technology for installing
 	partitions through NIM and Managing partitions through HMC Console
-```
+
 
 1999-1999 :   **StorageTek ,Inc.** - Irvine, CA
 
-```
- * Documented network configuration.
- * Maintained and administered multiple Sun E-450s.
- * Maintained and administered Cisco 3500 Catalyst switches and 2600
-Routers.
- * Developed backup strategy for network utilizing Veritas.
- * Maintained and administered NT servers.
- * Configured and administered dial-up access utilizing RAS.
- * Maintained internal DNS server.
-```
+
+	* Documented network configuration.
+	* Maintained and administered multiple Sun E-450s.
+	* Maintained and administered Cisco 3500 Catalyst switches and 2600
+	Routers.
+	* Developed backup strategy for network utilizing Veritas.
+	* Maintained and administered NT servers.
+	* Configured and administered dial-up access utilizing RAS.
+	* Maintained internal DNS server.
+
 
 1999-1999 :   **Computer Sciences Corp.** - El Segundo, CA
 
-```
- * Technical Lead of CSC Tiger Team.
- * Responible for development of operational plan to separate
-systems (DNS and Mail) from Hughes Aircraft to Raytheon Systems.
- * Developed and implemented requirement for
-Remedy deployment.
-```
+
+	* Technical Lead of CSC Tiger Team.
+	* Responible for development of operational plan to separate
+	systems (DNS and Mail) from Hughes Aircraft to Raytheon Systems.
+	* Developed and implemented requirement for
+	Remedy deployment.
+
 
 1998-1998 :   **DST International** - Boston, MA
 
-```
- * Moved client from UUCP based MTA to SMTP based MTA using
-Sendmail 8.9.1a.
- * Upgraded MTA from BIND 4.7 to BIND 8.
- * Performed system migration of Enterprise Server 6000 from
-Solaris 2.5.1 to 2.6.
-```
+
+	* Moved client from UUCP based MTA to SMTP based MTA using
+	Sendmail 8.9.1a.
+	* Upgraded MTA from BIND 4.7 to BIND 8.
+	* Performed system migration of Enterprise Server 6000 from
+	Solaris 2.5.1 to 2.6.
+
 
 1998-1998 :   **The MITRE Corporation** - New Bedford, MA
 
-```
- * Replaced POP services to IMAP.
- * Implemented  web based network  monitoring  system
-utilizing Big Brother software.
- * Designed a linux based SMP parallel processing cluster system as a
-proof of concept for client. Based around Project Beowulf.
-```
+	* Replaced POP services to IMAP.
+	* Implemented  web based network  monitoring  system
+	utilizing Big Brother software.
+	* Designed a linux based SMP parallel processing cluster system as a
+	proof of concept for client. Based around Project Beowulf.
+
 
 1998-1998 :   **Electric Boats, Inc** - Groton, CT
 
-```
- * Provided general user support.
- * Supervised fifteen system administrators on directed projects.
- * Implemented a 2.5 Solaris JumpStart procedure to install O/S
-on 175 servers.
- * Developed enterprise backup plan to support disaster
-recovery.
- * Developed and implemented enterprise-wide disaster recovery
-plan.
-```
+
+	* Provided general user support.
+	* Supervised fifteen system administrators on directed projects.
+	* Implemented a 2.5 Solaris JumpStart procedure to install O/S
+	on 175 servers.
+	* Developed enterprise backup plan to support disaster
+	recovery.
+	* Developed and implemented enterprise-wide disaster recovery
+	plan.
+
 
 1997-1998 :   **Cogent Software, Inc.** - Pasadena, CA
 
-```
- * Supported an ISP service.
- * Maintained mail for ISP users.
- * Maintained intranet server for internal usage.
- * Installed and maintained Oracle 7.3.2.3 and Oracle 8.0
- * Developed web based project management system.
-```
+
+	* Supported an ISP service.
+	* Maintained mail for ISP users.
+	* Maintained intranet server for internal usage.
+	* Installed and maintained Oracle 7.3.2.3 and Oracle 8.0
+	* Developed web based project management system.
+
 
 1997-1997 :   **Xerox** - El Segundo, CA
 
-```
- * Installation and configuration of Network Applicance NFS
-file servers.
- * General Systems Administrator tasks
-```
+
+	* Installation and configuration of Network Applicance NFS
+	file servers.
+	* General Systems Administrator tasks
+
 
 1997-1997 :   **UCLA Medical Center** - Los Angeles, CA
 
-```
- * Managed the day to day operations of 40 Sun Servers E2000
-used to support 6000 users
- * Developed long term strategy for growth of UNIX environment
-to be integrated with current  mainframe  environment.
- * Deploy mail services on UNIX box moving it from an NT
-Exchange environment.
- * Developed enterprise-wide backup strategy for both UNIX based \
-environments as well as NT environment. The latter environment \
-consisted of 150 servers.
-```
+
+	* Managed the day to day operations of 40 Sun Servers E2000
+	used to support 6000 users
+	* Developed long term strategy for growth of UNIX environment
+	to be integrated with current  mainframe  environment.
+	* Deploy mail services on UNIX box moving it from an NT
+	Exchange environment.
+	* Developed enterprise-wide backup strategy for both UNIX based \
+	environments as well as NT environment. The latter environment \
+	consisted of 150 servers.
+
 
 1997-1997 :   **ARCO** - Carson, CA
 
-```
- * Migrated mail from IBM mainframe based PROFS Notes to Unix
-based Sendmail using Sequent/OS.
- * Implemented Sendmail/Lotus Notes gateway.
-```
+
+	* Migrated mail from IBM mainframe based PROFS Notes to Unix
+	based Sendmail using Sequent/OS.
+	* Implemented Sendmail/Lotus Notes gateway.
+
 
 1996-1996 :   **General Instuments** - San Diego, CA
 
-```
- * Developed a test network environment to simulate usage
-development for Motorola Surfboard 1000 cable modem (DOCSIS)
- * Maintained CISCO routers and a Livingston Terminal server
-for the test group environment.
- * Provided day to day support for UNIX  based hosts throughout the site.
-```
+
+	* Developed a test network environment to simulate usage
+	development for Motorola Surfboard 1000 cable modem (DOCSIS)
+	* Maintained CISCO routers and a Livingston Terminal server
+	for the test group environment.
+	* Provided day to day support for UNIX  based hosts throughout the site.
+
 
 1996-1996 :   **Electronic Data Systems** - El Segundo, CA
 
-```
- * Managed approximately 45 UNIX  System Administrators at
-Hughes Aircraft Co. - Space and Communications Facility.
- * Day to day maintenance of Sun/OS and Solaris based SPARCs
-and HP-UX based HP 800/9000.
- * Developed a package in tk/tcl to monitor uptime and
-resources of machines.
- * Developed a paging package in PERL.
- * Responsible for developing a break/fix solution to be
-implemented account wide.
- * Responsible for developing a break/fix solution to be
-implemented account wide.
- * Designed a help desk support system utilizing X-terminals
-and UltraSPARC servers.
- * Acted as coordinator between EDS and Computer Science Corp. (CSC) \
-on network related problems.
- * Designed and maintained a Linux web server, DNS and mail
-servers for EDS.
- * Developed System Administration Procedure manual for this
-account.
-```
+	* Managed approximately 45 UNIX  System Administrators at
+	Hughes Aircraft Co. - Space and Communications Facility.
+	* Day to day maintenance of Sun/OS and Solaris based SPARCs
+	and HP-UX based HP 800/9000.
+	* Developed a package in tk/tcl to monitor uptime and
+	resources of machines.
+	* Developed a paging package in PERL.
+	* Responsible for developing a break/fix solution to be
+	implemented account wide.
+	* Responsible for developing a break/fix solution to be
+	implemented account wide.
+	* Designed a help desk support system utilizing X-terminals
+	and UltraSPARC servers.
+	* Acted as coordinator between EDS and Computer Science Corp. (CSC) \
+	on network related problems.
+	* Designed and maintained a Linux web server, DNS and mail
+	servers for EDS.
+	* Developed System Administration Procedure manual for this
+	account.
+
 
 1995-1996 :   **Twinsun, Inc** - El Segundo, CA
 
-```
- * Day to day management of approximately 20 Solaris based
-SPARCs and UltraSPARC.
- * Developed backup strategy for company network.
- * Designed ISP business as secondary revenue source for
-company.
- * Developed PERL based trouble report and tracking system.
- * Implemented TIS proxy firewall for company network.
-```
+	* Day to day management of approximately 20 Solaris based
+	SPARCs and UltraSPARC.
+	* Developed backup strategy for company network.
+	* Designed ISP business as secondary revenue source for
+	company.
+	* Developed PERL based trouble report and tracking system.
+	* Implemented TIS proxy firewall for company network.
+
 
 1994-1996 :   **Callis \&  Associates** - San Francisco, CA
 
-```
- * Managed ten consultants who provided services for the East Bay Area.
- * Over-saw the daily operations of the consulting group in a
-managerial position as well as lead technical consultant.
- * Designed a strategy to implement Internet connectivity
-throughout the primary and secondary schools of Oakland Unified School
-District.
-```
+	* Managed ten consultants who provided services for the East Bay Area.
+	* Over-saw the daily operations of the consulting group in a
+	managerial position as well as lead technical consultant.
+	* Designed a strategy to implement Internet connectivity
+	throughout the primary and secondary schools of Oakland Unified School
+	District.
+
 
 1992-1994 :   **Ventura County Office of Education** - Ventura,CA
 
-```
- * Installation of a linux based systems to replace failing systems.
- * Provided training for all staff members as well as some students.
-```
+	* Installation of a linux based systems to replace failing systems.
+	* Provided training for all staff members as well as some students.
+
 
 1989-1992 :   **Sun Microsystems, Inc** - Mt. View, CA
 
-```
- * Telephone support for Sun/OS 4.0 specific problems.
-```
+	* Telephone support for Sun/OS 4.0 specific problems.
+
 
 --------------------------------------------------------------------------------
 
