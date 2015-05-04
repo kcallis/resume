@@ -1,11 +1,6 @@
 Kim C. Callis
 ============
 
-----------------------          ---------------------------
-
-2605 Lewis St.                  kim.callis@gmail.com
-Little Rock, AR 72204           +1 (323) 244-4280 [http://kcallis.hashbang.sh](http://kcallis.hashbang.sh)
-
 ----
 
 >  I architect and implement solutions to difficult and ill defined
@@ -20,6 +15,7 @@ Little Rock, AR 72204           +1 (323) 244-4280 [http://kcallis.hashbang.sh](h
 
 ----
 
+
 Education
 ---------
 1993-1994 :   **Naval Postgraduate School**; M.Sc., Informations Systems Management
@@ -27,7 +23,6 @@ Education
 1990-1991 :   **Stanford University**; M.BA
 
 1984-1987 :   **University of San Francisco**; B.Sc., Business
-
 
 
 Certification
@@ -40,6 +35,7 @@ Certification
 - IBM Certified - Aix 6.1
 - IBM Certified - pSeries AIX System Administration (Aix 5.3)
 - Certified Associate in Project Management
+
 
 Skills
 ---------
@@ -64,6 +60,8 @@ Skills
   and network), mailing list managers, load balancers, policy engines,
   server provisioning._
 
+**Version Control:** _git, svn, cvs, rcs, mecurial_
+
 **Backup Systems:** _AMANDA, Zmanda, Bacula, Backuppc_
 
 **Virtualization Systems:** _Virtualbox, KVM, Zen_
@@ -87,6 +85,7 @@ Skills
   and written communication skills, excellent troubleshooting and
   debugging skills, exceptional problem solving skills, good team
   skills._
+
 
 Experience
 ---------
@@ -119,6 +118,12 @@ Experience
 	   client solution.
 	*  Used FreeNAS (FreeBSD based) appliance to provide 30TB Fileserver.
 	*  Designed WiFi based network to provide connectivity to fringe areas.
+
+
+\
+\
+\
+
 
 1999-2003
 :   **Callis, Chung \&  Associates** - Los Angeles, CA
@@ -297,6 +302,15 @@ Experience
 	for the test group environment.
 	* Provided day to day support for UNIX  based hosts throughout the site.
 
+\
+\
+\
+\
+\
+\
+\
+\
+
 
 1996-1996
 :   **Electronic Data Systems** - El Segundo, CA
@@ -360,6 +374,5 @@ Experience
 
 --------------------------------------------------------------------------------
 
-> 2605 Lewis St. - Little Rock AR 72204 \
-
+> 2605 Lewis St. - Little Rock, AR 72204 \
 > [kim.callis@gmail.com](mailto:kim.callis@gmail.com) • +1 (323) 244 4280 • [http://kcallis.hashbang.sh](http://kcallis.hashbang.sh)
